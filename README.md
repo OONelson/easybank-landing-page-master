@@ -1,4 +1,5 @@
 # easybank-landing-page-master
+* After learning basics of javascript and DOM i took on this project.
 
 ## Table of contents
 
